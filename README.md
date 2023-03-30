@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu repositorio!
+## Olá me chamo Ruan e seja bem vindo(a) ao meu repositorio!
 
 <div>
   
