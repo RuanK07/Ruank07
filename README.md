@@ -1,4 +1,4 @@
-# Olá me chamo Ruan e seja bem vindo(a) ao meu repositorio!
+# Hello, my name is Ruan and welcome to my repository!
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruank07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -44,7 +44,7 @@
 </td></tr> </table>
    
 
-### Tecnologias favoritas
+### Favorite technologies
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
