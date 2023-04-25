@@ -9,25 +9,29 @@
 # Repositories for Studies
 
 <table>
-    <tr><th> Frameworks </th><th>Design Patterns</th><th>Apache Camel</th></tr>
+  <tr><th> Frameworks </th><th>Design Patterns</th></tr>
+  <tr><td>
+
+  |Title | Technologies|
+  |--|--|
+  | [TDD-SpringBoot](https://github.com/RuanK07/TDD-SpringBoot) | JUnit |
+  | [SpringBoot-Kafka](https://github.com/RuanK07/SpringBoot-Kafka) | Kafka |
+  | [OpenCV-VehicleDectetor](https://github.com/RuanK07/OpenCV-VehicleDectetor) | OpenCV |
+
+  </td><td>
+
+  |Title | Technologies|
+  |--|--|
+  | [GoF-Singleton](https://github.com/RuanK07/GoF-Singleton) | Singleton |
+  | [GoF-Factory](https://github.com/RuanK07/GoF-Factory) | Factory |
+  | [GoF-Builder](https://github.com/RuanK07/GoF-Builder) | Builder |
+  | [GoF-AbstractFactory](https://github.com/RuanK07/GoF-AbstractFactory) | AbstractFactory |
+
+</td></tr> </table>
+
+<table>
+<tr><th>Apache Camel</th></tr>
 <tr><td>
-  
-|Title | Technologies|
-|--|--|
-| [TDD-SpringBoot](https://github.com/RuanK07/TDD-SpringBoot) | JUnit |
-| [SpringBoot-Kafka](https://github.com/RuanK07/SpringBoot-Kafka) | Kafka |
-| [OpenCV-VehicleDectetor](https://github.com/RuanK07/OpenCV-VehicleDectetor) | OpenCV |
-
-</td><td>
-
-|Title | Technologies|
-|--|--|
-| [GoF-Singleton](https://github.com/RuanK07/GoF-Singleton) | Singleton |
-| [GoF-Factory](https://github.com/RuanK07/GoF-Factory) | Factory |
-| [GoF-Builder](https://github.com/RuanK07/GoF-Builder) | Builder |
-| [GoF-AbstractFactory](https://github.com/RuanK07/GoF-AbstractFactory) | AbstractFactory |
-
-</td><td>
 
 |Title | Technologies|
 |--|--|
