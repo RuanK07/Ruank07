@@ -40,6 +40,7 @@
   | [Apache_Camel-Direct](https://github.com/RuanK07/Apache_Camel-Direct) | Direct |
   | [Apache_Camel-Timer](https://github.com/RuanK07/Apache_Camel-Timer) | Timer |
   | [Apache_Camel-Debezium](https://github.com/RuanK07/Apache_Camel-Debezium) | Debezium |
+  | [Apache_Camel-CSV](https://github.com/RuanK07/Apache_Camel-CSV) | CSV |
 
   </td><td>
 
