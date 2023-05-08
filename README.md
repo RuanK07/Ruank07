@@ -1,36 +1,53 @@
 # Hello, my name is Ruan and welcome to my repository!
 
+<br></br>
+
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruank07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruank07&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
 
+<br></br>
+
 # Repositories for Studies
 
+<br></br>
+
 <table>
-  <tr><th> Frameworks </th><th>Design Patterns</th></tr>
+  <tr><th> Message Brokers </th><th> Tests </th></tr>
   <tr><td>
 
   |Title | Technologies|
   |--|--|
-  | [TDD-SpringBoot](https://github.com/RuanK07/TDD-SpringBoot) | JUnit |
   | [SpringBoot-Kafka](https://github.com/RuanK07/SpringBoot-Kafka) | Kafka |
+
+  </td><td>
+    
+  |Title | Technologies|
+  |--|--|
+  | [TDD-SpringBoot](https://github.com/RuanK07/TDD-SpringBoot) | JUnit |
+
+  </td></tr> </table>
+
+<table>
+  <tr><th> Python Projects </th><th>LeetCode</th></tr>
+  <tr><td>
+
+  |Title | Technologies|
+  |--|--|
   | [OpenCV-VehicleDectetor](https://github.com/RuanK07/OpenCV-VehicleDectetor) | OpenCV |
 
   </td><td>
 
-  |Title | Technologies|
-  |--|--|
-  | [GoF-Singleton](https://github.com/RuanK07/GoF-Singleton) | Singleton |
-  | [GoF-Factory](https://github.com/RuanK07/GoF-Factory) | Factory |
-  | [GoF-Builder](https://github.com/RuanK07/GoF-Builder) | Builder |
-  | [GoF-AbstractFactory](https://github.com/RuanK07/GoF-AbstractFactory) | AbstractFactory |
+  |Title |
+  |--|
+  | [Problems-LeetCode](https://github.com/RuanK07/Problems-LeetCode) |
 
 </td></tr> </table>
 
 <table>
-  <tr><th>Apache Camel</th><th>LeetCode</th></tr>
+  <tr><th>Apache Camel</th><th>Design Patterns</th></tr>
   <tr><td>
 
   |Title | Technologies|
@@ -44,12 +61,16 @@
 
   </td><td>
 
-  |Title |
-  |--|
-  | [Problems-LeetCode](https://github.com/RuanK07/Problems-LeetCode) |
+  |Title | Technologies|
+  |--|--|
+  | [GoF-Singleton](https://github.com/RuanK07/GoF-Singleton) | Singleton |
+  | [GoF-Factory](https://github.com/RuanK07/GoF-Factory) | Factory |
+  | [GoF-Builder](https://github.com/RuanK07/GoF-Builder) | Builder |
+  | [GoF-AbstractFactory](https://github.com/RuanK07/GoF-AbstractFactory) | AbstractFactory |
 
 </td></tr> </table>
-   
+
+<br></br>
 
 ### Favorite technologies
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
