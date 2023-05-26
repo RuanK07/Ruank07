@@ -31,7 +31,7 @@
   </td></tr> </table>
 
 <table>
-  <tr><th> Python Projects </th><th>LeetCode</th></tr>
+  <tr><th> Python Projects </th><th>Security</th></tr>
   <tr><td>
 
   |Title | Technologies|
@@ -40,9 +40,10 @@
 
   </td><td>
 
-  |Title |
-  |--|
-  | [Problems-LeetCode](https://github.com/RuanK07/Problems-LeetCode) |
+  |Title | Technologies|
+  |--|--|
+  | [OAuth2-SpringBoot](https://github.com/RuanK07/OAuth2-SpringBoot) | OAuth2 |
+  | [Spring-Boot-Security](https://github.com/RuanK07/Spring-Boot-Security) | SpringSecurity |
 
 </td></tr> </table>
 
