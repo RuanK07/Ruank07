@@ -44,6 +44,7 @@
   |--|--|
   | [OAuth2-SpringBoot](https://github.com/RuanK07/OAuth2-SpringBoot) | OAuth2 |
   | [Spring-Boot-Security](https://github.com/RuanK07/Spring-Boot-Security) | SpringSecurity |
+  | [Keycloak-SpringBoot](https://github.com/RuanK07/Keycloak-SpringBoot) | Keycloak |
 
 </td></tr> </table>
 
