@@ -20,7 +20,7 @@
 
   |Title | Languages|
   |--|--|
-  | [Utup](https://github.com/RuanK07/Utup) | Java/Dart |
+  | [Utup](https://github.com/RuanK07/Utup) | Java |
 
   </td></tr> </table>
 
